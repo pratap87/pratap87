@@ -26,7 +26,7 @@
 # ❤ to Build - Software Engineer & Enthusiast!
 
 
-Hi, I'm Arun — a **software engineer** building some real stuff through code. My working principle is learning by doing. Always up for a discussion on  softwares, business, Design . ✌💖
+Hi, I'm Arun — a ** senior software engineer** building some real stuff through code. My working principle is learning by doing. Always up for a discussion on  softwares, business, Design . ✌💖
 
 <!-- section - intro -->
 
